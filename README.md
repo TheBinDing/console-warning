@@ -11,9 +11,14 @@ EN - United States
 ```
 git clone https://github.com/inwdragon/console-warning.git
 ```
+Or
+```
+bower install console-warning
+```
 
 ## Basic usage
 ```html
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:200" />
 <script src="console-warning.js"></script>
 
 <scrip>consoleWarning.log();</script>
@@ -22,6 +27,7 @@ git clone https://github.com/inwdragon/console-warning.git
 
 ## Advanced usage
 ```html
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:200" />
 <script src="console-warning.js"></script>
 
 <scrip>
